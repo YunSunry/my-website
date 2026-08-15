@@ -41,7 +41,7 @@ export default function Home() {
               playsInline
               poster="https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=1920&q=80"
             >
-              {/* 免费稳定的高清轮渡/水面视频链接 */}
+              
               <source
                 src="https://www.pexels.com/zh-cn/download/video/27645263/"
                 type="video/mp4"
@@ -69,8 +69,8 @@ export default function Home() {
           <p className="section-label">关于 网站</p>
           <h2 className="section-title">LOT硬件开发商</h2>
           <p className="section-text">
-            凭借超过 15 年的经验，DX-SMART  已向全球客户交付 100+ 款智能家居产品。
-            我们在智能家居领域的专长，使我们成为智能家居产品的领军企业。
+            行走与记录的旅行者
+            凭着对世界的好奇，我踏过多个国家与城市，用文字与镜头捕捉珍贵的生活瞬间。在这里，记录足迹、品味美食，留存每一段独一无二的时光记忆。
           </p>
           <div className="stats">
             <div>
