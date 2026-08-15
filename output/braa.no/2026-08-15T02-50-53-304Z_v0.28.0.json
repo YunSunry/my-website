@@ -1,0 +1,1178 @@
+{
+  "url": "https://www.braa.no/",
+  "extractedAt": "2026-08-15T02:50:53.277Z",
+  "meta": {
+    "snapshotId": "89ffd36c-4b76-447c-bb95-38a40e66db3d",
+    "httpStatus": 200,
+    "dembrandtVersion": "0.28.0",
+    "schemaVersion": "1.7.0",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "fontsReady": true,
+    "flags": {
+      "slow": true,
+      "locale": "nb-NO",
+      "timezone": "Europe/Oslo"
+    }
+  },
+  "siteName": "Brodrene Aa - energy efficient fast ferries in carbon fibre",
+  "logo": {
+    "source": "svg",
+    "context": "header",
+    "inline": true,
+    "url": "https://www.braa.no/",
+    "color": "#ffffff",
+    "ariaLabel": null,
+    "markup": "<svg viewBox=\"0 0 22 22\" xmlns=\"http://www.w3.org/2000/svg\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"0.5px\" style=\"color: rgb(255, 255, 255);\"><use href=\"#openArrowHead\"></use></svg>",
+    "dataUri": "data:image/svg+xml;utf8,%3Csvg%20viewBox%3D%220%200%2022%2022%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20stroke-linecap%3D%22square%22%20stroke-linejoin%3D%22miter%22%20stroke-width%3D%220.5px%22%20style%3D%22color%3A%20rgb(255%2C%20255%2C%20255)%3B%22%3E%3Cuse%20href%3D%22%23openArrowHead%22%3E%3C%2Fuse%3E%3C%2Fsvg%3E",
+    "svgColors": [],
+    "width": 27.734375,
+    "height": 27.734375,
+    "rect": {
+      "x": 3187,
+      "y": 431,
+      "width": 28,
+      "height": 28
+    },
+    "natural": {
+      "width": 22,
+      "height": 22
+    },
+    "type": "logomark",
+    "reversed": false,
+    "background": "#ffffff",
+    "safeZone": {
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "position": {
+      "top": 431.328125,
+      "left": 3187.1875
+    }
+  },
+  "logoInstances": [
+    {
+      "source": "svg",
+      "context": "header",
+      "inline": true,
+      "url": "https://www.braa.no/",
+      "color": "#ffffff",
+      "ariaLabel": null,
+      "markup": "<svg viewBox=\"0 0 22 22\" xmlns=\"http://www.w3.org/2000/svg\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"0.5px\" style=\"color: rgb(255, 255, 255);\"><use href=\"#openArrowHead\"></use></svg>",
+      "dataUri": "data:image/svg+xml;utf8,%3Csvg%20viewBox%3D%220%200%2022%2022%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20stroke-linecap%3D%22square%22%20stroke-linejoin%3D%22miter%22%20stroke-width%3D%220.5px%22%20style%3D%22color%3A%20rgb(255%2C%20255%2C%20255)%3B%22%3E%3Cuse%20href%3D%22%23openArrowHead%22%3E%3C%2Fuse%3E%3C%2Fsvg%3E",
+      "svgColors": [],
+      "width": 27.734375,
+      "height": 27.734375,
+      "rect": {
+        "x": 3187,
+        "y": 431,
+        "width": 28,
+        "height": 28
+      },
+      "natural": {
+        "width": 22,
+        "height": 22
+      },
+      "type": "logomark",
+      "reversed": false,
+      "background": "#ffffff",
+      "safeZone": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "position": {
+        "top": 431.328125,
+        "left": 3187.1875
+      }
+    },
+    {
+      "source": "img",
+      "context": "header",
+      "url": "https://images.squarespace-cdn.com/content/v1/65c334850671db1032629f8f/bb6c678f-9c72-4453-b7f6-1f51c668a9e4/logo.png?format=1500w",
+      "width": 426,
+      "height": 91,
+      "rect": {
+        "x": 115,
+        "y": 17,
+        "width": 257,
+        "height": 55
+      },
+      "natural": {
+        "width": 426,
+        "height": 91
+      },
+      "alt": "Brodrene Aa - energy efficient fast ferries in carbon fibre",
+      "type": "wordmark",
+      "reversed": false,
+      "background": "#ffffff",
+      "safeZone": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "position": {
+        "top": 17.265625,
+        "left": 115.1875
+      }
+    }
+  ],
+  "favicons": [
+    {
+      "type": "icon",
+      "url": "https://images.squarespace-cdn.com/content/v1/65c334850671db1032629f8f/4863d8d8-083c-4fe9-8f01-5a8702734792/favicon.ico?format=100w",
+      "sizes": null
+    },
+    {
+      "type": "icon",
+      "url": "https://images.squarespace-cdn.com/content/v1/65c334850671db1032629f8f/1b94fc96-4e0a-4dc6-b58b-2882098f1bbd/favicon.ico?format=100w",
+      "sizes": null
+    },
+    {
+      "type": "og:image",
+      "url": "http://static1.squarespace.com/static/65c334850671db1032629f8f/t/66d6c1185868821063cf356c/1725350179840/DJI_0058-HDR.jpg?format=1500w",
+      "sizes": null
+    },
+    {
+      "type": "twitter:image",
+      "url": "http://static1.squarespace.com/static/65c334850671db1032629f8f/t/66d6c1185868821063cf356c/1725350179840/DJI_0058-HDR.jpg?format=1500w",
+      "sizes": null
+    }
+  ],
+  "colors": {
+    "semantic": {
+      "secondary": "rgb(255, 255, 255)",
+      "primary": "rgb(68, 129, 180)",
+      "background": "rgb(255, 255, 255)",
+      "text": "rgb(11, 12, 12)"
+    },
+    "palette": [
+      {
+        "color": "rgb(11, 12, 12)",
+        "normalized": "#0b0c0c",
+        "count": 545,
+        "confidence": "high",
+        "sources": [
+          "tweak-blog-alternating-side-by",
+          "clearfix",
+          "white-bold"
+        ],
+        "lch": "lch(3.255% 0.312 199.449)",
+        "oklch": "oklch(15.3155% 0.00168 196.981)",
+        "role": "surface",
+        "onColor": "#ffffff",
+        "hover": "#0d0e0e"
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "normalized": "#ffffff",
+        "count": 81,
+        "confidence": "high",
+        "sources": [
+          "tweak-blog-alternating-side-by",
+          "header-skip-link",
+          "top-bun"
+        ],
+        "lch": "lch(100% 0.028 53.346)",
+        "oklch": "oklch(100% 0 0)",
+        "role": "surface",
+        "onColor": "#000000",
+        "hover": "#d9d9d9"
+      },
+      {
+        "color": "rgb(96, 96, 96)",
+        "normalized": "#606060",
+        "count": 26,
+        "confidence": "high",
+        "sources": [],
+        "lch": "lch(40.731% 0.014 53.346)",
+        "oklch": "oklch(48.9056% 0 0)",
+        "role": "neutral",
+        "onColor": "#ffffff",
+        "hover": "#737373"
+      },
+      {
+        "color": "rgb(68, 129, 180)",
+        "normalized": "#4481b4",
+        "count": 12,
+        "confidence": "high",
+        "sources": [
+          "section-border",
+          "section-background"
+        ],
+        "lch": "lch(51.599% 34.431 256.123)",
+        "oklch": "oklch(58.4802% 0.10111 245.93)",
+        "role": "accent",
+        "onColor": "#000000",
+        "hover": "#3a6e99",
+        "variantOf": "primary"
+      },
+      {
+        "color": "rgb(0, 97, 161)",
+        "normalized": "#0061a1",
+        "count": 1,
+        "confidence": "low",
+        "sources": [],
+        "lch": "lch(39.121% 42.403 263.186)",
+        "oklch": "oklch(48.0065% 0.12768 247.491)",
+        "role": "accent",
+        "onColor": "#ffffff",
+        "hover": "#0074c1",
+        "variantOf": "primary"
+      },
+      {
+        "color": "rgba(133, 184, 213, 0.9)",
+        "normalized": "#85b8d5",
+        "count": 1,
+        "confidence": "low",
+        "sources": [],
+        "lch": "lch(71.969% 23.565 239.597)",
+        "oklch": "oklch(75.711% 0.06797 233.776)",
+        "role": "accent",
+        "onColor": "#000000",
+        "hover": "#719cb5",
+        "variantOf": "primary"
+      }
+    ],
+    "cssVariables": {
+      "--image-block-card-image-title-bg-color": {
+        "value": "hsla(0,0%,100%,0)",
+        "hex": "#ffffff",
+        "lch": "lch(100% 0.028 53.346 / 0)",
+        "oklch": "oklch(100% 0 0 / 0)"
+      }
+    },
+    "detected": [
+      {
+        "color": "rgb(11, 12, 12)",
+        "normalized": "#0b0c0c",
+        "count": 545,
+        "usageFrac": 0.7933042212518195,
+        "confidence": "high",
+        "sources": [
+          "tweak-blog-alternating-side-by",
+          "clearfix",
+          "white-bold",
+          "header-announcement-bar-wrappe",
+          "header-skip-link"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "normalized": "#ffffff",
+        "count": 81,
+        "usageFrac": 0.11790393013100436,
+        "confidence": "high",
+        "sources": [
+          "tweak-blog-alternating-side-by",
+          "header-skip-link",
+          "top-bun",
+          "patty",
+          "bottom-bun"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(96, 96, 96)",
+        "normalized": "#606060",
+        "count": 26,
+        "usageFrac": 0.03784570596797671,
+        "confidence": "high",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "normalized": "#000000",
+        "count": 16,
+        "usageFrac": 0.023289665211062592,
+        "confidence": "high",
+        "sources": [
+          "header-burger-btn",
+          "js-header-burger-open-title",
+          "burger-box",
+          "burger-inner",
+          "top-bun"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(68, 129, 180)",
+        "normalized": "#4481b4",
+        "count": 12,
+        "usageFrac": 0.017467248908296942,
+        "confidence": "high",
+        "sources": [
+          "section-border",
+          "section-background"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(51, 51, 51)",
+        "normalized": "#333333",
+        "count": 2,
+        "usageFrac": 0.002911208151382824,
+        "confidence": "low",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(230, 230, 230)",
+        "normalized": "#e6e6e6",
+        "count": 2,
+        "usageFrac": 0.002911208151382824,
+        "confidence": "low",
+        "sources": [
+          "section-border",
+          "section-background"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(0, 97, 161)",
+        "normalized": "#0061a1",
+        "count": 1,
+        "usageFrac": 0.001455604075691412,
+        "confidence": "medium",
+        "sources": [],
+        "isToken": true
+      },
+      {
+        "color": "rgba(133, 184, 213, 0.9)",
+        "normalized": "#85b8d5",
+        "count": 1,
+        "usageFrac": 0.001455604075691412,
+        "confidence": "medium",
+        "sources": [],
+        "isToken": true
+      },
+      {
+        "color": "rgb(247, 247, 247)",
+        "normalized": "#f7f7f7",
+        "count": 1,
+        "usageFrac": 0.001455604075691412,
+        "confidence": "low",
+        "sources": [
+          "manage-cookies-bar"
+        ],
+        "isToken": false
+      }
+    ],
+    "_raw": [
+      {
+        "color": "rgb(0, 0, 0)",
+        "normalized": "#000000",
+        "count": 16
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "normalized": "#ffffff",
+        "count": 81
+      },
+      {
+        "color": "rgb(11, 12, 12)",
+        "normalized": "#0b0c0c",
+        "count": 545
+      },
+      {
+        "color": "rgb(68, 129, 180)",
+        "normalized": "#4481b4",
+        "count": 12
+      },
+      {
+        "color": "rgb(96, 96, 96)",
+        "normalized": "#606060",
+        "count": 26
+      }
+    ]
+  },
+  "typography": {
+    "styles": [
+      {
+        "context": "display",
+        "count": 1,
+        "family": "Lato",
+        "fallbacks": null,
+        "size": "72.296px (4.52rem)",
+        "weight": 400,
+        "lineHeight": "0.99",
+        "spacing": "-2.16888px",
+        "transform": null
+      },
+      {
+        "context": "heading-2",
+        "count": 5,
+        "family": "Lato",
+        "fallbacks": null,
+        "size": "53.864px (3.37rem)",
+        "weight": 400,
+        "lineHeight": "1.03",
+        "spacing": "-1.61592px",
+        "transform": null
+      },
+      {
+        "context": "text",
+        "count": 3,
+        "family": "Lato",
+        "fallbacks": null,
+        "size": "53.864px (3.37rem)",
+        "weight": 400,
+        "lineHeight": "1.03",
+        "spacing": "-1.61592px",
+        "transform": null
+      },
+      {
+        "context": "text",
+        "count": 5,
+        "family": "Lato",
+        "fallbacks": null,
+        "size": "32.3px (2.02rem)",
+        "weight": 400,
+        "lineHeight": "1.10",
+        "spacing": "0.17px",
+        "transform": null
+      },
+      {
+        "context": "link",
+        "count": 5,
+        "family": "Lato",
+        "fallbacks": null,
+        "size": "32.3px (2.02rem)",
+        "weight": 400,
+        "lineHeight": "1.10",
+        "spacing": "0.17px",
+        "transform": null
+      },
+      {
+        "context": "heading-3",
+        "count": 3,
+        "family": "Lato",
+        "fallbacks": null,
+        "size": "30.824px (1.93rem)",
+        "weight": 400,
+        "lineHeight": "1.07",
+        "spacing": "-0.92472px",
+        "transform": null
+      },
+      {
+        "context": "text",
+        "count": 3,
+        "family": "Lato",
+        "fallbacks": null,
+        "size": "30.824px (1.93rem)",
+        "weight": 400,
+        "lineHeight": "1.07",
+        "spacing": "-0.92472px",
+        "transform": null
+      },
+      {
+        "context": "body",
+        "count": 9,
+        "family": "Lato",
+        "fallbacks": null,
+        "size": "23.912px (1.49rem)",
+        "weight": 400,
+        "lineHeight": "1.30",
+        "spacing": "0.17px",
+        "transform": null
+      },
+      {
+        "context": "link",
+        "count": 2,
+        "family": "Lato",
+        "fallbacks": null,
+        "size": "23.912px (1.49rem)",
+        "weight": 400,
+        "lineHeight": "1.30",
+        "spacing": "0.17px",
+        "transform": null
+      },
+      {
+        "context": "heading-4",
+        "count": 1,
+        "family": "Lato",
+        "fallbacks": null,
+        "size": "21.608px (1.35rem)",
+        "weight": 400,
+        "lineHeight": "1.09",
+        "spacing": "-0.64824px",
+        "transform": null
+      },
+      {
+        "context": "link",
+        "count": 30,
+        "family": "Lato",
+        "fallbacks": null,
+        "size": "17px (1.06rem)",
+        "weight": 400,
+        "lineHeight": "1.00",
+        "spacing": "0.17px",
+        "transform": null
+      },
+      {
+        "context": "body",
+        "count": 44,
+        "family": "Lato",
+        "fallbacks": null,
+        "size": "17px (1.06rem)",
+        "weight": 400,
+        "lineHeight": "1.00",
+        "spacing": "0.17px",
+        "transform": null
+      },
+      {
+        "context": "ui",
+        "count": 2,
+        "family": "Lato",
+        "fallbacks": null,
+        "size": "17px (1.06rem)",
+        "weight": 400,
+        "lineHeight": "1.40",
+        "spacing": "0.17px",
+        "transform": null
+      },
+      {
+        "context": "ui",
+        "count": 2,
+        "family": "Lato",
+        "fallbacks": null,
+        "size": "17px (1.06rem)",
+        "weight": 400,
+        "lineHeight": null,
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "body",
+        "count": 2,
+        "family": "Lato",
+        "fallbacks": null,
+        "size": "17px (1.06rem)",
+        "weight": 400,
+        "lineHeight": null,
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "link",
+        "count": 6,
+        "family": "Lato",
+        "fallbacks": null,
+        "size": "17px (1.06rem)",
+        "weight": 400,
+        "lineHeight": null,
+        "spacing": "0.34px",
+        "transform": null
+      },
+      {
+        "context": "body",
+        "count": 1,
+        "family": "Lato",
+        "fallbacks": null,
+        "size": "14.696px (0.92rem)",
+        "weight": 400,
+        "lineHeight": "1.40",
+        "spacing": "0.17px",
+        "transform": null
+      },
+      {
+        "context": "link",
+        "count": 3,
+        "family": "Lato",
+        "fallbacks": null,
+        "size": "14.696px (0.92rem)",
+        "weight": 400,
+        "lineHeight": "1.40",
+        "spacing": "0.17px",
+        "transform": null
+      },
+      {
+        "context": "body",
+        "count": 4,
+        "family": "Lato",
+        "fallbacks": null,
+        "size": "14px (0.88rem)",
+        "weight": 400,
+        "lineHeight": null,
+        "spacing": "0.17px",
+        "transform": null
+      },
+      {
+        "context": "ui",
+        "count": 4,
+        "family": "Lato",
+        "fallbacks": null,
+        "size": "14px (0.88rem)",
+        "weight": 400,
+        "lineHeight": "2.86",
+        "spacing": "0.17px",
+        "transform": null
+      },
+      {
+        "context": "body",
+        "count": 3,
+        "family": "Lato",
+        "fallbacks": null,
+        "size": "13px (0.81rem)",
+        "weight": 400,
+        "lineHeight": null,
+        "spacing": "0.17px",
+        "transform": null
+      },
+      {
+        "context": "ui",
+        "count": 1,
+        "family": "Lato",
+        "fallbacks": null,
+        "size": "12px (0.75rem)",
+        "weight": 400,
+        "lineHeight": null,
+        "spacing": null,
+        "transform": null
+      },
+      {
+        "context": "caption",
+        "count": 1,
+        "family": "Lato",
+        "fallbacks": null,
+        "size": "10px (0.63rem)",
+        "weight": 400,
+        "lineHeight": "1.00",
+        "spacing": "0.17px",
+        "transform": null
+      },
+      {
+        "context": "caption",
+        "count": 2,
+        "family": "Lato",
+        "fallbacks": null,
+        "size": "0px (0.00rem)",
+        "weight": 400,
+        "lineHeight": "NaN",
+        "spacing": "0.17px",
+        "transform": null
+      },
+      {
+        "context": "link",
+        "count": 2,
+        "family": "Lato",
+        "fallbacks": null,
+        "size": "0px (0.00rem)",
+        "weight": 400,
+        "lineHeight": "NaN",
+        "spacing": "0.17px",
+        "transform": null
+      }
+    ],
+    "sources": {
+      "googleFonts": [],
+      "adobeFonts": true,
+      "variableFonts": false,
+      "urls": [
+        "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/0e48baa8-3b27-43a8-b31d-07bd5927372a/latin-ext.woff2",
+        "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/29f7503d-8b8e-4c7c-ba6e-a0d235c1adb0/latin-ext.woff2",
+        "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/678b9191-bb7e-44f3-a7b4-53f969d43881/latin-ext.woff2",
+        "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/6f0688dc-c8b3-4706-8053-c2ded200834b/latin-ext.woff2",
+        "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/77d64971-7b43-4ce4-88e7-381c87daac5c/latin.woff2",
+        "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/9b7fd711-2de3-4280-9313-db3740d27a01/latin.woff2",
+        "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/f039b551-84d3-4644-ac5a-b541e8898cf9/latin.woff2",
+        "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/f9176adf-65db-48e4-bf01-000028015a2b/latin.woff2",
+        "https://use.typekit.net/af/0995c0/00000000000000007735d954/31/a?subset_id=2&fvd=i4&v=3",
+        "https://use.typekit.net/af/0995c0/00000000000000007735d954/31/d?subset_id=2&fvd=i4&v=3",
+        "https://use.typekit.net/af/0995c0/00000000000000007735d954/31/l?subset_id=2&fvd=i4&v=3",
+        "https://use.typekit.net/af/1188e5/00000000000000007735d961/31/a?subset_id=2&fvd=i7&v=3",
+        "https://use.typekit.net/af/1188e5/00000000000000007735d961/31/d?subset_id=2&fvd=i7&v=3",
+        "https://use.typekit.net/af/1188e5/00000000000000007735d961/31/l?subset_id=2&fvd=i7&v=3",
+        "https://use.typekit.net/af/3c56e7/00000000000000007735d947/31/a?subset_id=2&fvd=n7&v=3",
+        "https://use.typekit.net/af/3c56e7/00000000000000007735d947/31/d?subset_id=2&fvd=n7&v=3",
+        "https://use.typekit.net/af/3c56e7/00000000000000007735d947/31/l?subset_id=2&fvd=n7&v=3",
+        "https://use.typekit.net/af/f9b025/00000000000000007735d96d/31/a?subset_id=2&fvd=n4&v=3",
+        "https://use.typekit.net/af/f9b025/00000000000000007735d96d/31/d?subset_id=2&fvd=n4&v=3",
+        "https://use.typekit.net/af/f9b025/00000000000000007735d96d/31/l?subset_id=2&fvd=n4&v=3"
+      ],
+      "filteredFamilies": [
+        "sans-serif"
+      ],
+      "selfHostedFonts": [
+        "latin.woff2"
+      ],
+      "customFonts": [
+        "latin.woff2"
+      ]
+    }
+  },
+  "spacing": {
+    "scaleType": "8px",
+    "commonValues": [
+      {
+        "px": "1px",
+        "display": "1px",
+        "rem": "0.06rem",
+        "count": 4,
+        "numericValue": 1
+      },
+      {
+        "px": "1.7px",
+        "display": "1.7px",
+        "rem": "0.11rem",
+        "count": 40,
+        "numericValue": 1.7
+      },
+      {
+        "px": "2px",
+        "display": "2px",
+        "rem": "0.13rem",
+        "count": 5,
+        "numericValue": 2
+      },
+      {
+        "px": "5px",
+        "display": "5px",
+        "rem": "0.31rem",
+        "count": 2,
+        "numericValue": 5
+      },
+      {
+        "px": "7px",
+        "display": "7px",
+        "rem": "0.44rem",
+        "count": 2,
+        "numericValue": 7
+      },
+      {
+        "px": "8.5px",
+        "display": "8.5px",
+        "rem": "0.53rem",
+        "count": 4,
+        "numericValue": 8.5
+      },
+      {
+        "px": "10px",
+        "display": "10px",
+        "rem": "0.63rem",
+        "count": 58,
+        "numericValue": 10
+      },
+      {
+        "px": "13px",
+        "display": "13px",
+        "rem": "0.81rem",
+        "count": 1,
+        "numericValue": 13
+      },
+      {
+        "px": "15px",
+        "display": "15px",
+        "rem": "0.94rem",
+        "count": 7,
+        "numericValue": 15
+      },
+      {
+        "px": "17px",
+        "display": "17px",
+        "rem": "1.06rem",
+        "count": 27,
+        "numericValue": 17
+      },
+      {
+        "px": "17.28px",
+        "display": "17.28px",
+        "rem": "1.08rem",
+        "count": 2,
+        "numericValue": 17.28
+      },
+      {
+        "px": "34px",
+        "display": "34px",
+        "rem": "2.13rem",
+        "count": 2,
+        "numericValue": 34
+      },
+      {
+        "px": "42.9844px",
+        "display": "42.9844px",
+        "rem": "2.69rem",
+        "count": 3,
+        "numericValue": 42.9844
+      },
+      {
+        "px": "63.9531px",
+        "display": "63.9531px",
+        "rem": "4.00rem",
+        "count": 2,
+        "numericValue": 63.9531
+      },
+      {
+        "px": "85px",
+        "display": "85px",
+        "rem": "5.31rem",
+        "count": 2,
+        "numericValue": 85
+      },
+      {
+        "px": "89.5156px",
+        "display": "89.5156px",
+        "rem": "5.59rem",
+        "count": 2,
+        "numericValue": 89.5156
+      },
+      {
+        "px": "115.2px",
+        "display": "115.2px",
+        "rem": "7.20rem",
+        "count": 3,
+        "numericValue": 115.2
+      },
+      {
+        "px": "298.656px",
+        "display": "298.656px",
+        "rem": "18.67rem",
+        "count": 2,
+        "numericValue": 298.656
+      },
+      {
+        "px": "324.859px",
+        "display": "324.859px",
+        "rem": "20.30rem",
+        "count": 3,
+        "numericValue": 324.859
+      },
+      {
+        "px": "384px",
+        "display": "384px",
+        "rem": "24.00rem",
+        "count": 1,
+        "numericValue": 384
+      }
+    ]
+  },
+  "borderRadius": {
+    "values": [
+      {
+        "value": "1%",
+        "count": 2,
+        "elements": [
+          "div"
+        ],
+        "confidence": "low",
+        "numericValue": 1
+      }
+    ]
+  },
+  "borders": {
+    "combinations": [
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgba(11, 12, 12, 0.1)",
+        "count": 4,
+        "elements": [
+          "button"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgb(255, 255, 255)",
+        "count": 2,
+        "elements": [
+          "button"
+        ],
+        "confidence": "low"
+      },
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgb(11, 12, 12)",
+        "count": 1,
+        "elements": [
+          "button"
+        ],
+        "confidence": "low"
+      }
+    ]
+  },
+  "shadows": [],
+  "gradients": [],
+  "motion": {
+    "durations": [
+      {
+        "value": "0.001s",
+        "ms": 1,
+        "count": 459
+      },
+      {
+        "value": "0.17s",
+        "ms": 170,
+        "count": 10
+      },
+      {
+        "value": "0.6s",
+        "ms": 600,
+        "count": 2
+      }
+    ],
+    "easings": [
+      {
+        "value": "ease",
+        "type": "ease",
+        "count": 437
+      },
+      {
+        "value": "cubic-bezier(0.4, 0, 0.2, 1)",
+        "type": "custom",
+        "count": 16
+      },
+      {
+        "value": "ease-out",
+        "type": "ease-out",
+        "count": 10
+      },
+      {
+        "value": "linear",
+        "type": "linear",
+        "count": 6
+      },
+      {
+        "value": "cubic-bezier(0.2, 0.6, 0.3, 1)",
+        "type": "custom",
+        "count": 6
+      },
+      {
+        "value": "ease-in-out",
+        "type": "ease-in-out",
+        "count": 4
+      }
+    ],
+    "animations": [],
+    "contexts": {
+      "media": {
+        "count": 33,
+        "durations": [
+          "0.001s"
+        ],
+        "easing": "ease",
+        "easingType": "ease",
+        "props": [
+          "opacity",
+          "transform"
+        ]
+      },
+      "modal": {
+        "count": 7,
+        "durations": [
+          "0.001s"
+        ],
+        "easing": "ease",
+        "easingType": "ease",
+        "props": []
+      },
+      "hero": {
+        "count": 15,
+        "durations": [
+          "0.001s"
+        ],
+        "easing": "ease",
+        "easingType": "ease",
+        "props": [
+          "padding",
+          "transform",
+          "opacity",
+          "background"
+        ]
+      },
+      "link": {
+        "count": 39,
+        "durations": [
+          "0.001s",
+          "0.17s",
+          "0.6s"
+        ],
+        "easing": "ease",
+        "easingType": "ease",
+        "props": [
+          "opacity",
+          "background-color",
+          "color",
+          "transform"
+        ]
+      },
+      "nav": {
+        "count": 37,
+        "durations": [
+          "0.001s",
+          "0.17s"
+        ],
+        "easing": "ease",
+        "easingType": "ease",
+        "props": [
+          "transform"
+        ]
+      },
+      "button": {
+        "count": 2,
+        "durations": [
+          "0.001s"
+        ],
+        "easing": "ease",
+        "easingType": "ease",
+        "props": []
+      },
+      "card": {
+        "count": 12,
+        "durations": [
+          "0.001s"
+        ],
+        "easing": "ease",
+        "easingType": "ease",
+        "props": []
+      }
+    },
+    "interactiveDeltas": []
+  },
+  "components": {
+    "buttons": [
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(11, 12, 12)",
+            "padding": "17px 34px",
+            "borderRadius": "0px",
+            "border": "1px solid rgb(255, 255, 255)",
+            "fontSize": "17px",
+            "fontWeight": "400"
+          }
+        },
+        "fontWeight": "400",
+        "fontSize": "17px",
+        "text": "Skip to Content",
+        "confidence": "high"
+      },
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(255, 255, 255)",
+            "padding": "17px 34px",
+            "borderRadius": "0px",
+            "border": "1px solid rgb(255, 255, 255)",
+            "fontSize": "17px",
+            "fontWeight": "400"
+          }
+        },
+        "fontWeight": "400",
+        "fontSize": "17px",
+        "text": "More about us",
+        "confidence": "medium"
+      },
+      {
+        "states": {
+          "default": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(11, 12, 12)",
+            "padding": "17px 34px",
+            "borderRadius": "0px",
+            "border": "1px solid rgb(11, 12, 12)",
+            "fontSize": "17px",
+            "fontWeight": "400"
+          }
+        },
+        "fontWeight": "400",
+        "fontSize": "17px",
+        "text": "News archive",
+        "confidence": "medium"
+      }
+    ],
+    "inputs": {
+      "text": [],
+      "checkbox": [],
+      "radio": [],
+      "select": []
+    },
+    "links": [
+      {
+        "color": "rgb(11, 12, 12)",
+        "textDecoration": "underline",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgb(11, 12, 12)",
+            "textDecoration": "underline"
+          },
+          "hover": null
+        }
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "textDecoration": "none",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgb(255, 255, 255)",
+            "textDecoration": "underline 1px"
+          },
+          "hover": null
+        }
+      },
+      {
+        "color": "rgba(0, 0, 0, 0)",
+        "textDecoration": "none",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgba(0, 0, 0, 0)",
+            "textDecoration": "none"
+          },
+          "hover": null
+        }
+      },
+      {
+        "color": "rgb(96, 96, 96)",
+        "textDecoration": "underline 1px",
+        "fontWeight": "400",
+        "states": {
+          "default": {
+            "color": "rgb(96, 96, 96)",
+            "textDecoration": "underline 1px"
+          },
+          "hover": null
+        }
+      }
+    ],
+    "badges": {
+      "all": [],
+      "byVariant": {
+        "error": [],
+        "warning": [],
+        "success": [],
+        "info": [],
+        "neutral": []
+      }
+    }
+  },
+  "breakpoints": [
+    {
+      "px": "767px"
+    },
+    {
+      "px": "768px"
+    }
+  ],
+  "iconSystem": [
+    {
+      "name": "SVG Icons",
+      "type": "svg"
+    }
+  ],
+  "frameworks": []
+}
