@@ -67,9 +67,9 @@ export default function Home() {
       <section className="section" id="om-oss">
         <div className="section-inner">
           <p className="section-label">关于 网站</p>
-          <h2 className="section-title">LOT硬件开发商</h2>
+          <h2 className="section-title">行走与记录的旅行者</h2>
           <p className="section-text">
-            行走与记录的旅行者
+            
             凭着对世界的好奇，我踏过多个国家与城市，用文字与镜头捕捉珍贵的生活瞬间。在这里，记录足迹、品味美食，留存每一段独一无二的时光记忆。
           </p>
           <div className="stats">
