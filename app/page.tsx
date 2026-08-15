@@ -52,10 +52,10 @@ export default function Home() {
 
         {/* 覆盖在视频之上的文字与按钮内容 */}
         <div className="hero-content">
-          <p className="hero-label">自 2014 年 · 中国深圳</p>
-          <h1 className="hero-title">LOT智能家居</h1>
+          <p className="hero-label">自 2026 年 · 中国深圳</p>
+          <h1 className="hero-title">个人灵感</h1>
           <p className="hero-subtitle">
-            我们设计并建造LOT智能家居，专注于可持续发展、创新工艺与匠心。
+            探索世界，发现更好的自己
           </p>
           <Link href="#prosjekter" className="btn btn-light">
             查看我们的项目
