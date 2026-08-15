@@ -39,7 +39,7 @@ export default function Home() {
               loop
               muted
               playsInline
-              poster="https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=1920&q=80"
+              
             >
               
               <source
@@ -132,8 +132,7 @@ export default function Home() {
             <p className="section-label">所走过的路</p>
             <h2>To see the world</h2>
             <p>
-              为纳柔依峡湾 UNESCO 世界遗产设计的标志性客船。
-              碳纤维船体与电力推进，为可持续旅游树立新标准。
+              每一段旅程都是一次全新的对话。记录下那些不期而遇的风景、微风与阳光，把漫漫长路上的故事，写成属于自己的生活诗篇。
             </p>
             <Link href="#" className="btn btn-outline">了解更多</Link>
           </div>
